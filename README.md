@@ -1,5 +1,12 @@
-### Nice of You to Meet 👋
+# Nice of You to Meet 👋 I'm Baghatraj
 
+### Completed B.E CSE
+
+- 🌱 I’m currently learning Full Stack Web Development
+- 🔭 I’m currently looking for a job in Web Development
+- 📫 To reach me:
+  <br/><br/>
+   [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn?style=flat-square&logo=LinkedIn&label=Baghatraj%20N&labelColor=blue&color=blue)](https://www.linkedin.com/in/baghatraj-n/)
 <!--
 **Baghatraj/Baghatraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
