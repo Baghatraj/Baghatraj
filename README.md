@@ -2,7 +2,7 @@
 
 ### Ongoing M.Tech in IoT and Sensor Systems
 
-- 🌱 Ihave learned Full Stack Web Development
+- 🌱 I have learned Full Stack Web Development
 - 🔭 I have Completed B.E CSE
 - 📫 To reach me:
   
