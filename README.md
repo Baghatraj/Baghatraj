@@ -1,9 +1,9 @@
 # Nice of You to Meet 👋 I'm Baghatraj
 
-### Completed B.E CSE
+### Ongoing M.Tech in IoT and Sensor Systems
 
-- 🌱 I’m currently learning Full Stack Web Development
-- 🔭 I’m currently looking for a job in Web Development
+- 🌱 Ihave learned Full Stack Web Development
+- 🔭 I have Completed B.E CSE
 - 📫 To reach me:
   
    [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn?style=flat-square&logo=LinkedIn&label=Baghatraj%20N&labelColor=blue&color=blue)](https://www.linkedin.com/in/baghatraj-n/)
